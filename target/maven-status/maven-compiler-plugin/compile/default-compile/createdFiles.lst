@@ -1,0 +1,12 @@
+com\mycompany\app\Figure.class
+com\mycompany\app\Triangle.class
+com\mycompany\app\ColorPoint.class
+com\mycompany\app\ColorLine.class
+com\mycompany\app\ColorTriangle.class
+com\mycompany\app\Point.class
+com\mycompany\app\Line.class
+com\mycompany\app\Polygon.class
+com\mycompany\app\Quadrangle.class
+com\mycompany\app\MainClass.class
+com\mycompany\app\Colorable.class
+com\mycompany\app\FigureFactory.class
